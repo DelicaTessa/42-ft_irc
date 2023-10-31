@@ -1,5 +1,4 @@
 # ft_irc
-[![tclement's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl59lbrtc003009jqom2qgm4z/project/2545709)](https://github.com/JaeSeoKim/badge42)<br>
 
 This project is intended for a deeper study of the operation of sockets and their interactions on the example of an IRC chat/server.
 The test project is built via a Makefile and is run using the following command:
